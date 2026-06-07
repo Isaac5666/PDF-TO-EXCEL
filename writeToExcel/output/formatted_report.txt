@@ -1,0 +1,9 @@
+==================================================
+DOCUMENT EXTRACTION REPORT
+==================================================
+
+Name: Job KT
+DOB: 22-12-1981
+Gender: NOT FOUND
+Certificate Number: 002900066299441
+Policy Number: MN231202066299441

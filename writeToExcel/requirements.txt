@@ -1,0 +1,12 @@
+pymupdf
+opencv-python
+pyzbar
+pillow
+numpy
+pandas
+openpyxl
+pydantic
+python-dateutil
+pdf2image
+paddleocr
+paddlepaddle
